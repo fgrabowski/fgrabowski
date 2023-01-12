@@ -5,7 +5,7 @@ So far I've worked with Java creating some stuff using Spring Boot. Learning Int
 
 I'm into creating Web Applications, I find that they're our future :)
 
-I'm fluent in Java and familiar with TypeScript, Go, Python. 
+I'm fluent in Java and familiar with JavaScript,Python. 
 
 ---
 
