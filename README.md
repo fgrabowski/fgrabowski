@@ -1,5 +1,3 @@
-Key Values: 🙌 Simplicity, 🦾 Innovative, 🤝 Helpfulness
-
 Hi, I am Filip and I am 16 years old high school student interested in technology.
 Music lover that never leaves home without headphones.
 
@@ -12,6 +10,8 @@ Also I needed to do Frontend on my web applications, ReactJS.
 
 Now I am learning Rust, Python and TypeScript.
 However before every project I choose language that fits the best and learn it. 
+
+Key Values: 🙌 Simplicity, 🦾 Innovative, 🤝 Helpfulness
 
 --- 
 
