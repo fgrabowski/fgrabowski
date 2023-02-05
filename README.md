@@ -1,4 +1,4 @@
-Key Values: 🙌 Simplicity, 👍 Usefulness, 🦾 Innovative, 🤝 Helpful
+Key Values: 🙌 Simplicity, 🦾 Innovative, 🤝 Helpfulness
 
 Hi, I am Filip and I am 16 years old high school student interested in technology.
 Music lover that never leaves home without headphones.
