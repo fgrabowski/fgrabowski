@@ -1,14 +1,16 @@
-15 years old developer interested in new technologies, cybersecurity also interested in music and mixing. Addicted to coding. 
-Currently attending to High School.
+Hi, I am Filip and I am 16 years old high school student interested in technology.
 
-So far I've worked with Java creating some stuff using Spring Boot. Learning Internet Security. Spending my freetime on reading about new tech, listening to music and creating software, sometimes even doing games in C# (Unity) just for fun. Also planning to do some crazy stuff together with my friends from hackerspace soon..
+Ever since I joined to HackerSpace Trojmiasto I gained experience with microcontrollers and IoT. 
+Some of my projects are build on ESP32 or Raspberry Pico. 
+And I am still learning low-end development tech stack, meant by Rust, Python.
+Also I needed to do FrontEnd on my web applications, ReactJS.
 
-I'm into creating Web Applications, I find that they're our future :)
+Now I am learning Rust, Python and TypeScript.
+However before every project I choose language that fits the best and learn it. 
 
-I'm fluent in Java and familiar with JavaScript,Python. 
+--- 
 
----
+My dream is to automate public transport and therefore this is my biggest project which combines my passions (Technology & Transport).
+In the future I will be software engineer, and I love it.
 
-When I was 13 I wrote my first code line although I took a break for 2 years from programming, I lost my passion and it wasn't enjoyable any more. When I went to new school I got a lot of freetime and since then I'm back and I learn a lot in IT field and this is my big passion which I really enjoy to do.
-
-> You can catch me up on discord: fgrabowski#0001
+> In my freetime I also attend to many Technology Events. 
