@@ -11,7 +11,8 @@ Also I needed to do Frontend on my web applications, ReactJS.
 Now I am learning Rust, Python and TypeScript.
 However before every project I choose language that fits the best and learn it. 
 
-Current Projects: Hackerspace Lucien (Python, Raspberry Pico) - Book finder, we used Led Stripes to navigate through shelf and show the book on it. PyExplorers (Py, MongoDB, FastAPI) - Guitar checker, user can type guitar serial number and get information about it. 
+Current Projects: 📚🔍  Hackerspace Lucien (Python, Raspberry Pico) - Book finder, we used Led Stripes to navigate through shelf and show the book on it.
+🎸🔍 Guitar Finder (Py, MongoDB, FastAPI) - Guitar checker, user can type guitar serial number and get information about it. 
 
 Key Values: 🙌 Simplicity, 🦾 Innovative, 🤝 Helpfulness
 
