@@ -8,6 +8,6 @@ However, before starting project, I choose language that fits the best and learn
 
 --- 
 
-In april 2023 I started my internship as a DevOps Engineer at Soundoshi. It combines my two passions (Music & Programming) and the technology of the future (Blockchain). Learn more about Soundoshi [here](https://soundoshi.com/). 
+In april 2023 I started my internship as a DevOps Engineer at Soundoshi. It combines my three passions (Music & Programming) and the technology of the future (Blockchain). Learn more about Soundoshi [here](https://soundoshi.com/). 
 
 > In my freetime I also attend to many Technology Events. 
