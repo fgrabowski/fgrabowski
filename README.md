@@ -1,7 +1,7 @@
 Hey, I'm Filip.
 
 Fluent in Python.
-In 2023 I started my year-long journey as a Python Developer at [Soundoshi](https://soundoshi.com/). 
+Previously Backend Engineer, now full-time founder.  
 Gotta wear sunglasses, because the future looks bright 😎
 
 --- 
