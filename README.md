@@ -1,7 +1,7 @@
 Hey, I'm Filip.
 
 Fluent in Python.
-Previously Backend Engineer, now full-time founder.  
+Previously GTM Engineer and Backend Engineer.  
 Gotta wear sunglasses, because the future looks bright 😎
 
 --- 
